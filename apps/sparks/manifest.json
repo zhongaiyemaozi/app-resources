@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "",
+  "packs": [
+    {
+      "id": "animation.pack.hot01",
+      "gameType": "animation",
+      "level": null,
+      "version": 5,
+      "minAppVersion": "2.4.0",
+      "tier": "pro",
+      "locales": [
+        "all"
+      ],
+      "title": "Hot Animations Pack",
+      "summary": "More intense mood animations for Pro. On-device, blends into results.",
+      "files": {
+        "all": "packs/animation.pack.hot01.all.v5.bin"
+      },
+      "checksums": {
+        "all": "6235fc3b554e298ca4b207f97911816e8db140460bcdc8b1e4df481be58c033b"
+      }
+    },
+    {
+      "id": "dare.pack.overseas01",
+      "gameType": "dare",
+      "level": null,
+      "version": 1,
+      "minAppVersion": "2.4.0",
+      "tier": "free",
+      "locales": [
+        "en",
+        "zh-Hans"
+      ],
+      "title": "Dare · Playful Nights",
+      "summary": "12 flirty-but-sweet dares, added straight into the Dare deck.",
+      "files": {
+        "en": "packs/dare.pack.overseas01.en.v1.bin",
+        "zh-Hans": "packs/dare.pack.overseas01.zh-Hans.v1.bin"
+      },
+      "checksums": {
+        "en": "55b1e74bc7a0c13d9d600f03f59d3f3468442d6c6f8ee975b2ee04f3e8c4ff9b",
+        "zh-Hans": "c17567926490b11ff8a6d80fab264da6b42b3bc3687715b09eac26f2af1cc9be"
+      }
+    },
+    {
+      "id": "deepDare.pack.pro01",
+      "gameType": "deepDare",
+      "level": null,
+      "version": 1,
+      "minAppVersion": "2.4.0",
+      "tier": "pro",
+      "locales": [
+        "en",
+        "zh-Hans"
+      ],
+      "title": "Deep Dare · Bond",
+      "summary": "10 connection-building dares. Full-bundle exclusive.",
+      "files": {
+        "en": "packs/deepDare.pack.pro01.en.v1.bin",
+        "zh-Hans": "packs/deepDare.pack.pro01.zh-Hans.v1.bin"
+      },
+      "checksums": {
+        "en": "2f66268b1811d789d191f557ff47c769b73f77a5d95fd8e299ae84874cdaacdc",
+        "zh-Hans": "43be477e11b1fb1a7443daaa437c3ca67cdbd13d53b351f33cda464d5061a1fd"
+      }
+    },
+    {
+      "id": "deepTruth.pack.pro01",
+      "gameType": "deepTruth",
+      "level": null,
+      "version": 1,
+      "minAppVersion": "2.4.0",
+      "tier": "pro",
+      "locales": [
+        "en",
+        "zh-Hans"
+      ],
+      "title": "Deep Truth · Closer",
+      "summary": "12 deep relationship questions. Full-bundle exclusive.",
+      "files": {
+        "en": "packs/deepTruth.pack.pro01.en.v1.bin",
+        "zh-Hans": "packs/deepTruth.pack.pro01.zh-Hans.v1.bin"
+      },
+      "checksums": {
+        "en": "14b1a33fd8e5e285f289d29ceacdfd5949fb104236419afa7c6069c5c842f69d",
+        "zh-Hans": "fa9918aa786214c20e87b3c0a3f9610a2dcf5ef27d71c75eb594723d695f0e2b"
+      }
+    },
+    {
+      "id": "truth.pack.overseas01",
+      "gameType": "truth",
+      "level": null,
+      "version": 1,
+      "minAppVersion": "2.4.0",
+      "tier": "free",
+      "locales": [
+        "en",
+        "zh-Hans"
+      ],
+      "title": "Truth · Summer Sparks",
+      "summary": "12 fresh playful truth prompts, added straight into the Truth deck.",
+      "files": {
+        "en": "packs/truth.pack.overseas01.en.v1.bin",
+        "zh-Hans": "packs/truth.pack.overseas01.zh-Hans.v1.bin"
+      },
+      "checksums": {
+        "en": "47a04a86e7ae2fd307fcbea5d528f2b28953c3fba8364fdd9e0ceab58c66bd66",
+        "zh-Hans": "e02480a97cf2bbf7d4f185a2083a3412ec7b48bf4b093e3295bcd8c53bf33ce2"
+      }
+    }
+  ],
+  "flags": {
+    "lottieEnabled": true,
+    "boldEnabled": true,
+    "remoteEnabled": false
+  }
+}

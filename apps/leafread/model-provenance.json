@@ -1,0 +1,23 @@
+[
+  {
+    "name": "vits-melo-tts-zh_en.tar.bz2",
+    "sha256": "e58351ed7149f290a54534538badd4077cdbe6fddc964b24d0bee870415d1514",
+    "bytes": 167006755,
+    "license": "MIT; MeloTTS by MyShell.ai and sherpa-onnx official package",
+    "sourceURL": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-melo-tts-zh_en.tar.bz2"
+  },
+  {
+    "name": "kokoro-int8-multi-lang-v1_1.tar.bz2",
+    "sha256": "a1e94694776049035c4f2c6529f003aaece993c76aae9a78995831c3c4dcafc6",
+    "bytes": 147031220,
+    "license": "Apache-2.0; Kokoro-82M-v1.1-zh and sherpa-onnx official int8 package",
+    "sourceURL": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-int8-multi-lang-v1_1.tar.bz2"
+  },
+  {
+    "name": "sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2",
+    "sha256": "82fa96f91c4ef8abaae3a14a3f4153facf88bed821d1f7331cec2700f432c427",
+    "bytes": 128774318,
+    "license": "OpenRAIL-M; Supertonic 3 and sherpa-onnx official int8 package",
+    "sourceURL": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2"
+  }
+]

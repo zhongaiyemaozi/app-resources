@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "incrementVersion": 1,
+  "minAppVersion": "1.9",
+  "createdAt": "1970-01-01T00:00:00Z",
+  "license": "WebClean Proprietary",
+  "packs": [
+    {
+      "id": "webclean-core-ads",
+      "packVersion": 1,
+      "license": "WebClean Proprietary",
+      "rules": [
+        {
+          "trigger": {"url-filter": "^https://ads.example/"},
+          "action": {"type": "block"}
+        }
+      ]
+    }
+  ]
+}

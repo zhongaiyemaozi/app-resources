@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "id": "zh-cn-tingting-narration",
+      "name": "婷婷 · 朗读",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-tingting-narration.wav",
+          "sha256": "2b089bfb92abb11f694bc4dba1207e9b960a537f25d464511cbc0c4f3425dbd8",
+          "bytes": 78976
+        }
+      ],
+      "preview": "previews/zh-cn-tingting-narration.wav"
+    },
+    {
+      "id": "zh-cn-shelley-news",
+      "name": "Shelley · 新闻",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "news",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-shelley-news.wav",
+          "sha256": "783e9344ac60405b98a7efec93f1cc0676b56f1f9608ddba0c0f645217529e6c",
+          "bytes": 79530
+        }
+      ],
+      "preview": "previews/zh-cn-shelley-news.wav"
+    },
+    {
+      "id": "zh-cn-sandy-conversation",
+      "name": "Sandy · 对话",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "conversation",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-sandy-conversation.wav",
+          "sha256": "7e959a3966c8531c40cbf0bd07183d8217ae2ab0edf8c53b197f6c6aa6e73837",
+          "bytes": 73598
+        }
+      ],
+      "preview": "previews/zh-cn-sandy-conversation.wav"
+    },
+    {
+      "id": "zh-cn-reed-narration",
+      "name": "Reed · 朗读",
+      "language": "zh-CN",
+      "gender": "male",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-reed-narration.wav",
+          "sha256": "d11cd6bc2c606645593967d51201eb4709dfe7908c6efcbac73216c94b28083c",
+          "bytes": 78414
+        }
+      ],
+      "preview": "previews/zh-cn-reed-narration.wav"
+    },
+    {
+      "id": "zh-cn-grandpa-character",
+      "name": "Grandpa · 角色",
+      "language": "zh-CN",
+      "gender": "male",
+      "style": "character",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-grandpa-character.wav",
+          "sha256": "defd6ba6181347c8440d90862bef74d10c4462c4e7546314c3f6c5769d9a7286",
+          "bytes": 66758
+        }
+      ],
+      "preview": "previews/zh-cn-grandpa-character.wav"
+    },
+    {
+      "id": "zh-cn-rocko-child",
+      "name": "Rocko · 童声",
+      "language": "zh-CN",
+      "gender": "male",
+      "style": "child",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-rocko-child.wav",
+          "sha256": "8a08604df16762c363056e8bf7b94f2b12fd7b83f965ff50f4097356eaec466c",
+          "bytes": 69900
+        }
+      ],
+      "preview": "previews/zh-cn-rocko-child.wav"
+    },
+    {
+      "id": "zh-hk-sinji-narration",
+      "name": "善怡 · 朗读",
+      "language": "zh-HK",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-hk-sinji-narration.wav",
+          "sha256": "5715f919a9954bb8b24068f836744ae2e163fd6fa5ef7deb3f0c7b570cf8ee1b",
+          "bytes": 75858
+        }
+      ],
+      "preview": "previews/zh-hk-sinji-narration.wav"
+    },
+    {
+      "id": "zh-tw-meijia-narration",
+      "name": "美佳 · 朗读",
+      "language": "zh-TW",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/zh-tw-meijia-narration.wav",
+          "sha256": "18f1ba723487d8664b19ef03ab679d31d7bdb5ac4a1449bb106034ad6bc4a493",
+          "bytes": 90916
+        }
+      ],
+      "preview": "previews/zh-tw-meijia-narration.wav"
+    },
+    {
+      "id": "en-us-samantha-narration",
+      "name": "Samantha · Narration",
+      "language": "en-US",
+      "gender": "female",
+      "style": "narration",
+      "quality": "high",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/en-us-samantha-narration.wav",
+          "sha256": "9aa49abe57b27c1d775a53ae6904c36dac6066b0c5d4550d9ccc70545a054c69",
+          "bytes": 79782
+        }
+      ],
+      "preview": "previews/en-us-samantha-narration.wav"
+    },
+    {
+      "id": "en-gb-daniel-news",
+      "name": "Daniel · News",
+      "language": "en-GB",
+      "gender": "male",
+      "style": "news",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/en-gb-daniel-news.wav",
+          "sha256": "0d3c0644975918e372152bacece4af211257d409aabfbdc21179a4b95646863e",
+          "bytes": 58874
+        }
+      ],
+      "preview": "previews/en-gb-daniel-news.wav"
+    },
+    {
+      "id": "en-us-albert-conversation",
+      "name": "Albert · Conversation",
+      "language": "en-US",
+      "gender": "male",
+      "style": "conversation",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/en-us-albert-conversation.wav",
+          "sha256": "d861a200631823bf1982c636ff68f5e55c0e0daaea1c071fb72e21c31afd4cc0",
+          "bytes": 67292
+        }
+      ],
+      "preview": "previews/en-us-albert-conversation.wav"
+    },
+    {
+      "id": "en-us-junior-child",
+      "name": "Junior · Child",
+      "language": "en-US",
+      "gender": "male",
+      "style": "child",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/en-us-junior-child.wav",
+          "sha256": "acaee89aef5814a72e0de26420ee3ffadbc1e79129064f77499dcb69d73e223f",
+          "bytes": 78610
+        }
+      ],
+      "preview": "previews/en-us-junior-child.wav"
+    },
+    {
+      "id": "ja-jp-kyoko-narration",
+      "name": "Kyoko · 朗読",
+      "language": "ja-JP",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/ja-jp-kyoko-narration.wav",
+          "sha256": "3dfa63843eef841e971f7457260b28a17cd61a250abbf466d69fa8156f4ee2ac",
+          "bytes": 83450
+        }
+      ],
+      "preview": "previews/ja-jp-kyoko-narration.wav"
+    },
+    {
+      "id": "ja-jp-reed-news",
+      "name": "Reed · ニュース",
+      "language": "ja-JP",
+      "gender": "male",
+      "style": "news",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/ja-jp-reed-news.wav",
+          "sha256": "ed6d41c7059ac8b1531d6e128bf733b227c7193a13424dd974eca431c733c12d",
+          "bytes": 72124
+        }
+      ],
+      "preview": "previews/ja-jp-reed-news.wav"
+    },
+    {
+      "id": "ko-kr-yuna-narration",
+      "name": "Yuna · 낭독",
+      "language": "ko-KR",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/ko-kr-yuna-narration.wav",
+          "sha256": "41dea59b85ab29acb2e46017c5e7a8ecf7fa00468841913c712b4a087226516a",
+          "bytes": 87930
+        }
+      ],
+      "preview": "previews/ko-kr-yuna-narration.wav"
+    },
+    {
+      "id": "ko-kr-reed-conversation",
+      "name": "Reed · 대화",
+      "language": "ko-KR",
+      "gender": "male",
+      "style": "conversation",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/ko-kr-reed-conversation.wav",
+          "sha256": "0bd4ea19478d9d7aa0d40f7b6722022922157e0665d42cb7fe9bf6cf5b124ec2",
+          "bytes": 82610
+        }
+      ],
+      "preview": "previews/ko-kr-reed-conversation.wav"
+    },
+    {
+      "id": "fr-fr-shelley-narration",
+      "name": "Shelley · Narration",
+      "language": "fr-FR",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/fr-fr-shelley-narration.wav",
+          "sha256": "3d39172bef29e0c90791f12a7efcd7b0077e1ce45b2e9ee6f4e8f69fce8a6f60",
+          "bytes": 95418
+        }
+      ],
+      "preview": "previews/fr-fr-shelley-narration.wav"
+    },
+    {
+      "id": "fr-fr-jacques-news",
+      "name": "Jacques · Actualités",
+      "language": "fr-FR",
+      "gender": "male",
+      "style": "news",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/fr-fr-jacques-news.wav",
+          "sha256": "b8209bcf8705f06738c1634d5cd715239afe219775e87749f97d6392bba99c13",
+          "bytes": 45494
+        }
+      ],
+      "preview": "previews/fr-fr-jacques-news.wav"
+    },
+    {
+      "id": "de-de-anna-narration",
+      "name": "Anna · Erzählung",
+      "language": "de-DE",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/de-de-anna-narration.wav",
+          "sha256": "8d320b7c66186a2a0a6302768851451f5f576f4e167451741b7dbc545281f20c",
+          "bytes": 82890
+        }
+      ],
+      "preview": "previews/de-de-anna-narration.wav"
+    },
+    {
+      "id": "de-de-reed-news",
+      "name": "Reed · Nachrichten",
+      "language": "de-DE",
+      "gender": "male",
+      "style": "news",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/de-de-reed-news.wav",
+          "sha256": "3857e665591190a108a18e0b5579ff1a4d42bdbee87bdff175a3df6c3e210273",
+          "bytes": 63990
+        }
+      ],
+      "preview": "previews/de-de-reed-news.wav"
+    },
+    {
+      "id": "ru-ru-milena-narration",
+      "name": "Milena · Повествование",
+      "language": "ru-RU",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/ru-ru-milena-narration.wav",
+          "sha256": "6914b33caa8f2c01b729207c4651d39a582645d4c8982fc9d484077bf3e4ef30",
+          "bytes": 93632
+        }
+      ],
+      "preview": "previews/ru-ru-milena-narration.wav"
+    },
+    {
+      "id": "hi-in-lekha-narration",
+      "name": "Lekha · वाचन",
+      "language": "hi-IN",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/hi-in-lekha-narration.wav",
+          "sha256": "e6a455043202eec7937add912822bdc13b3517a33d67800264787280aff01c8a",
+          "bytes": 86692
+        }
+      ],
+      "preview": "previews/hi-in-lekha-narration.wav"
+    },
+    {
+      "id": "vi-vn-linh-narration",
+      "name": "Linh · Kể chuyện",
+      "language": "vi-VN",
+      "gender": "female",
+      "style": "narration",
+      "quality": "standard",
+      "engine": "preview",
+      "license": "Short preview for LeafRead. Chapter reading still uses the system voice.",
+      "files": [
+        {
+          "name": "previews/vi-vn-linh-narration.wav",
+          "sha256": "8f7a206712c22c6cfb5ff15bc693cd59755ce7f185471b74b8cb9c023c79d820",
+          "bytes": 87412
+        }
+      ],
+      "preview": "previews/vi-vn-linh-narration.wav"
+    },
+    {
+      "id": "zh-cn-tingting-natural",
+      "name": "婷婷 · 自然朗读",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-tingting-natural.wav",
+          "sha256": "c1377d48ec99132952f0280e84edbed93d4b4a902e775f41bb87245edd0a4fe8",
+          "bytes": 267412
+        }
+      ],
+      "preview": "previews/zh-cn-tingting-natural.wav"
+    },
+    {
+      "id": "zh-cn-shelley-natural",
+      "name": "Shelley · 自然新闻",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "news",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-shelley-natural.wav",
+          "sha256": "b585b4eedd15fd028f2efc71355e8775c21cb0e2748decc44630ba6423664248",
+          "bytes": 273480
+        }
+      ],
+      "preview": "previews/zh-cn-shelley-natural.wav"
+    },
+    {
+      "id": "zh-cn-sandy-natural",
+      "name": "Sandy · 自然对话",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "conversation",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-sandy-natural.wav",
+          "sha256": "d606a36dc194532054c7e38d22c5b6a743c360a5db9fa1c93a571e6b1a582723",
+          "bytes": 247750
+        }
+      ],
+      "preview": "previews/zh-cn-sandy-natural.wav"
+    },
+    {
+      "id": "zh-cn-reed-natural",
+      "name": "Reed · 自然朗读",
+      "language": "zh-CN",
+      "gender": "male",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-reed-natural.wav",
+          "sha256": "beeadb41815a44f54a3008bfd410f4dad08d6629e62ed946a99a4e1d7cbafb60",
+          "bytes": 268420
+        }
+      ],
+      "preview": "previews/zh-cn-reed-natural.wav"
+    },
+    {
+      "id": "zh-cn-flo-natural",
+      "name": "Flo · 自然讲述",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-flo-natural.wav",
+          "sha256": "16b68fee1a88513eca1f1311bfed8301ed0f2a9843b03f2808b2e896342efadf",
+          "bytes": 223026
+        }
+      ],
+      "preview": "previews/zh-cn-flo-natural.wav"
+    },
+    {
+      "id": "zh-cn-grandma-natural",
+      "name": "奶奶 · 自然故事",
+      "language": "zh-CN",
+      "gender": "female",
+      "style": "character",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-grandma-natural.wav",
+          "sha256": "0afc645028b572993ceb61063d95590e4d20de95acc3becafbe669e11270037a",
+          "bytes": 240628
+        }
+      ],
+      "preview": "previews/zh-cn-grandma-natural.wav"
+    },
+    {
+      "id": "zh-cn-grandpa-natural",
+      "name": "爷爷 · 自然故事",
+      "language": "zh-CN",
+      "gender": "male",
+      "style": "character",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-cn-grandpa-natural.wav",
+          "sha256": "2a32ad786b6f252a5bf9dc2b216783ac5eb71fd1c929b585daccb9406b76413a",
+          "bytes": 261024
+        }
+      ],
+      "preview": "previews/zh-cn-grandpa-natural.wav"
+    },
+    {
+      "id": "zh-hk-sinji-natural",
+      "name": "善怡 · 自然粤语",
+      "language": "zh-HK",
+      "gender": "female",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-hk-sinji-natural.wav",
+          "sha256": "bf48023afdbfeb8f6fe75e10b4dd27a8f14c411710faafae273aaf9870691644",
+          "bytes": 237442
+        }
+      ],
+      "preview": "previews/zh-hk-sinji-natural.wav"
+    },
+    {
+      "id": "zh-tw-meijia-natural",
+      "name": "美佳 · 自然朗读",
+      "language": "zh-TW",
+      "gender": "female",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "preview",
+      "license": "Short natural-style Chinese preview for LeafRead. Chapter reading uses the closest system voice.",
+      "files": [
+        {
+          "name": "previews/zh-tw-meijia-natural.wav",
+          "sha256": "a047830d0ba70dc8f38a66d535fe1525cb231729801f93ce31bd060886f7cc70",
+          "bytes": 239904
+        }
+      ],
+      "preview": "previews/zh-tw-meijia-natural.wav"
+    },
+    {
+      "id": "vits-melo-tts-zh_en",
+      "name": "MeloTTS 中英 · 流畅女声",
+      "language": "zh-CN",
+      "additionalLanguages": [
+        "en-US"
+      ],
+      "gender": "female",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "sherpa-onnx-vits-melo",
+      "license": "MIT; MeloTTS by MyShell.ai and sherpa-onnx official package",
+      "files": [
+        {
+          "name": "vits-melo-tts-zh_en.tar.bz2",
+          "sha256": "e58351ed7149f290a54534538badd4077cdbe6fddc964b24d0bee870415d1514",
+          "bytes": 167006755,
+          "remoteURL": "https://github.com/zhongaiyemaozi/app-resources/releases/download/resources-v1/vits-melo-tts-zh_en.tar.bz2"
+        }
+      ],
+      "preview": null
+    },
+    {
+      "id": "kokoro-int8-multi-lang-v1_1",
+      "name": "Kokoro 多语言 · 103 音色",
+      "language": "zh-CN",
+      "additionalLanguages": [
+        "en-US"
+      ],
+      "gender": "mixed",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "sherpa-onnx-kokoro",
+      "license": "Apache-2.0; Kokoro-82M-v1.1-zh and sherpa-onnx official int8 package",
+      "files": [
+        {
+          "name": "kokoro-int8-multi-lang-v1_1.tar.bz2",
+          "sha256": "a1e94694776049035c4f2c6529f003aaece993c76aae9a78995831c3c4dcafc6",
+          "bytes": 147031220,
+          "remoteURL": "https://github.com/zhongaiyemaozi/app-resources/releases/download/resources-v1/kokoro-int8-multi-lang-v1_1.tar.bz2"
+        }
+      ],
+      "preview": null
+    },
+    {
+      "id": "sherpa-onnx-supertonic-3-tts-int8-2026-05-11",
+      "name": "Supertonic 3 · 10 Voices",
+      "language": "en-US",
+      "additionalLanguages": [
+        "ja-JP",
+        "ko-KR",
+        "fr-FR",
+        "de-DE",
+        "hi-IN",
+        "ru-RU",
+        "vi-VN"
+      ],
+      "gender": "neutral",
+      "style": "narration",
+      "quality": "natural",
+      "engine": "sherpa-onnx-supertonic",
+      "license": "OpenRAIL-M; Supertonic 3 and sherpa-onnx official int8 package",
+      "files": [
+        {
+          "name": "sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2",
+          "sha256": "82fa96f91c4ef8abaae3a14a3f4153facf88bed821d1f7331cec2700f432c427",
+          "bytes": 128774318,
+          "remoteURL": "https://github.com/zhongaiyemaozi/app-resources/releases/download/resources-v1/sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2"
+        }
+      ],
+      "preview": null
+    }
+  ]
+}
